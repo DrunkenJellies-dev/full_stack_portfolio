@@ -28,10 +28,10 @@ const Hero = () => {
             Dynamic Web Magic With Next.js
           </h2>
 
-          <TextGenerateEffect className="text-center text-[40px] md:text-5xl lg:text-6xl" words="My Name Jeff"/>
+          <TextGenerateEffect className="text-center text-[40px] md:text-5xl lg:text-6xl" words="The Fifth Word is Purple"/>
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Callum a full-stack developer based in the United Kingdom
+            Hi, I&apos;m Callum, a full-stack developer based in the United Kingdom
           </p>
         </div>
       </div>
